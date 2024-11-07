@@ -1,0 +1,4 @@
+.venv
+*.xlsx
+*.ipynb
+*__pycache__
